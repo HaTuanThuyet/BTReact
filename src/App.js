@@ -11,6 +11,7 @@ import ChangeFontSize from './StateDemo/ChangeFontSize';
 import BaiTapChonXe from './BaiTapChonXe/BaiTapChonXe';
 import RenderWithArray from './RenderWithArray/RenderWithArray';
 import HomePage from './Props/HomePage';
+import Homecomponents from './BaiTapVeNha/Homecomponents';
 // import StyleComponent from './StyleComponent/StyleComponent';
 // JSX 
 function App() {
@@ -28,7 +29,9 @@ function App() {
      {/* <ChangeFontSize/> */}
      {/* <BaiTapChonXe/>  */}
      {/* <RenderWithArray/> */}
-     <HomePage/>
+     {/* <HomePage/>  */}
+     <Homecomponents/>
+     
 
    </div>
 

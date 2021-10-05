@@ -22,12 +22,12 @@ body,html{
   height: 200px;
 }
 .footer{
-  background-color: red;
+  /* background-color: red;  */
   color: white;
   text-align: center;
   font-size: 30px;
   height: 50px;
 }
 p{
-  color: white;
+  /* color: white; */
 }
